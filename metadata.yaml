@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7023
     wikipedia: http://en.wikipedia.org/wiki/E._Temple_Thurston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41752#The-City-of-Beautiful-Nonsense
 gutenberg_issued: '2013-01-01'
 gutenberg_type: Text
 identifiers:
